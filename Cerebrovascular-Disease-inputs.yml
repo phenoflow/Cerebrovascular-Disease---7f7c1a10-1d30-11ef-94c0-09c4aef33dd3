@@ -1,0 +1,93 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/intracranial-cerebrovascular-disease---primary.py
+inputModule3:
+  class: File
+  path: python/traumatic-cerebrovascular-disease---primary.py
+inputModule4:
+  class: File
+  path: python/subarachnoid-cerebrovascular-disease---primary.py
+inputModule5:
+  class: File
+  path: python/cerebrovascular-disease-stenosis---primary.py
+inputModule6:
+  class: File
+  path: python/cerebrovascular---primary.py
+inputModule7:
+  class: File
+  path: python/intracerebral-cerebrovascular-disease---primary.py
+inputModule8:
+  class: File
+  path: python/cerebrovascular-disease-generalised---primary.py
+inputModule9:
+  class: File
+  path: python/cerebrovascular-disease-unspecified---primary.py
+inputModule10:
+  class: File
+  path: python/right-cerebrovascular-disease---primary.py
+inputModule11:
+  class: File
+  path: python/other-cerebrovascular-disease---primary.py
+inputModule12:
+  class: File
+  path: python/arterial-cerebrovascular-disease---primary.py
+inputModule13:
+  class: File
+  path: python/cerebrovascular-disease-communicating---primary.py
+inputModule14:
+  class: File
+  path: python/cerebrovascular-disease-stroke---primary.py
+inputModule15:
+  class: File
+  path: python/ischaemic-cerebrovascular-disease---primary.py
+inputModule16:
+  class: File
+  path: python/subdural-cerebrovascular-disease---primary.py
+inputModule17:
+  class: File
+  path: python/multiple-cerebrovascular-disease---primary.py
+inputModule18:
+  class: File
+  path: python/cerebellar-cerebrovascular-disease---primary.py
+inputModule19:
+  class: File
+  path: python/cerebrovascular-disease-lacunar---primary.py
+inputModule20:
+  class: File
+  path: python/precerebral-cerebrovascular-disease---primary.py
+inputModule21:
+  class: File
+  path: python/cerebrovascular-disease-hemisphere---primary.py
+inputModule22:
+  class: File
+  path: python/cerebrovascular-disease-sequelae---primary.py
+inputModule23:
+  class: File
+  path: python/cerebrovascular-disease---primary.py
+inputModule24:
+  class: File
+  path: python/cerebrovascular-disease-middle---primary.py
+inputModule25:
+  class: File
+  path: python/cerebrovascular-disease-posterior---primary.py
+inputModule26:
+  class: File
+  path: python/cerebrovascular-disease-sided---primary.py
+inputModule27:
+  class: File
+  path: python/cerebrovascular-disease-anterior---primary.py
+inputModule28:
+  class: File
+  path: python/cerebrovascular-disease-brain---primary.py
+inputModule29:
+  class: File
+  path: python/cerebrovascular-disease-syndrome---primary.py
+inputModule30:
+  class: File
+  path: python/output-cases.py
